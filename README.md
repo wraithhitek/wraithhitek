@@ -20,18 +20,18 @@
 ---
 
 ## 🔍 Who I am
-I'm a **Computer Science & Engineering student** at Jagannath University, graduating in 2027[cite: 1]. I like problems where the answer is hiding in a big dataset, whether that's spotting fraud, ranking polluted cities, or shrinking a manual report[cite: 1]. 
+I'm a **Computer Science & Engineering student** at Jagannath University, graduating in 2027. I like problems where the answer is hiding in a big dataset, whether that's spotting fraud, ranking polluted cities, or shrinking a manual report. 
 
-I'm also into generative AI: I'm Oracle-certified in it, went through Google's multimodal AI program, and built a summarizer on the Gemini API[cite: 1].
+I'm also into generative AI: I'm Oracle-certified in it, went through Google's multimodal AI program, and built a summarizer on the Gemini API .
 
 <div align="center">
 
 | Area | Focus |
 | :--- | :--- |
-| 📊 **Data analysis** | Python, Pandas, NumPy and SQL to clean, aggregate and explain data[cite: 1]. |
-| 🤖 **Machine learning** | Classification on imbalanced data with Scikit-learn[cite: 1]. |
-| 🧠 **Generative AI** | Gemini, RAG and Vertex AI[cite: 1]. |
-| 📈 **Dashboards** | Power BI and dashboards that make trends easy to read[cite: 1]. |
+| 📊 **Data analysis** | Python, Pandas, NumPy and SQL to clean, aggregate and explain data . |
+| 🤖 **Machine learning** | Classification on imbalanced data with Scikit-learn . |
+| 🧠 **Generative AI** | Gemini, RAG and Vertex AI . |
+| 📈 **Dashboards** | Power BI and dashboards that make trends easy to read . |
 
 </div>
 
@@ -61,31 +61,31 @@ I'm also into generative AI: I'm Oracle-certified in it, went through Google's m
 
 ### 💳 Credit Card Fraud Detection & Analysis
 > `Python` `Scikit-learn` `Pandas`
-* Analyzed 284,000+ credit card transactions where only 0.17% were fraud, and used SMOTE to handle the imbalance[cite: 1].
-* A Random Forest reached **80.6% recall and 0.969 ROC-AUC**, beating a Logistic Regression baseline on precision (81.4% vs 5.8%)[cite: 1].
+* Analyzed 284,000+ credit card transactions where only 0.17% were fraud, and used SMOTE to handle the imbalance .
+* A Random Forest reached **80.6% recall and 0.969 ROC-AUC**, beating a Logistic Regression baseline on precision (81.4% vs 5.8%) .
 
 ### 📝 AI Content Summarizer
 > `Python` `Google Gemini API` `FastAPI`
-* A pipeline that condenses long articles and blog posts into short summaries, with configurable token limits and temperature for different content types[cite: 1].
-* Handles rate limits, authentication failures and invalid input without crashing[cite: 1].
+* A pipeline that condenses long articles and blog posts into short summaries, with configurable token limits and temperature for different content types .
+* Handles rate limits, authentication failures and invalid input without crashing .
 
 ### 🌫️ AQI Data Analysis Dashboard
 > `Power BI` `Python (Pandas)` `Excel/SQL`
-* Dashboard on air quality and pollutant levels (PM2.5, NO, SO2, CO) across major Indian cities, 2015–2020[cite: 1].
-* Ranks cities and hotspots: **Delhi, Patna and Amritsar** came out as the most polluted[cite: 1].
+* Dashboard on air quality and pollutant levels (PM2.5, NO, SO2, CO) across major Indian cities, 2015–2020 .
+* Ranks cities and hotspots: **Delhi, Patna and Amritsar** came out as the most polluted .
 
 ## 📈 Training
 
-**Data Science Training, Qspyder Gurugram** *(June 2026 – Present)*[cite: 1]
-* Analyzed an online retail dataset of 541,000+ transactions across 38 countries with Pandas and NumPy, cleaning raw sales data to find purchase trends for business reporting[cite: 1].
-* Wrote SQL to aggregate order and product data from a Blinkit grocery dataset of about 100,000 orders, and built an interactive dashboard covering 5 major cities that cut manual reporting effort by about 40%[cite: 1].
+**Data Science Training, Qspyder Gurugram** *(June 2026 – Present)* 
+* Analyzed an online retail dataset of 541,000+ transactions across 38 countries with Pandas and NumPy, cleaning raw sales data to find purchase trends for business reporting .
+* Wrote SQL to aggregate order and product data from a Blinkit grocery dataset of about 100,000 orders, and built an interactive dashboard covering 5 major cities that cut manual reporting effort by about 40% .
 
 ## 🎓 Certifications & Education
 
-* 🏅 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** - Oracle *(Oct 2025)*[cite: 1]
-* 🏅 **Gen AI Academy: Multimodal AI with Gemini, RAG & Vertex AI** - Google Cloud x Hack2skill *(Dec 2025)*[cite: 1]
-* 🤝 **Perplexity Campus Partner** - Perplexity *(Aug – Dec 2025)*[cite: 1]
-* 🎓 **B.Tech, Computer Science & Engineering** - Jagannath University, Haryana *(Aug 2023 – Jun 2027)*[cite: 1]
+* 🏅 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** - Oracle *(Oct 2025)* 
+* 🏅 **Gen AI Academy: Multimodal AI with Gemini, RAG & Vertex AI** - Google Cloud x Hack2skill *(Dec 2025)* 
+* 🤝 **Perplexity Campus Partner** - Perplexity *(Aug – Dec 2025)* 
+* 🎓 **B.Tech, Computer Science & Engineering** - Jagannath University, Haryana *(Aug 2023 – Jun 2027)* 
 
 ---
 <div align="center">
