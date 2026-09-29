@@ -2,11 +2,12 @@
 
 <p><img src="https://img.shields.io/badge/🟢_Data_Science_Training_at_Qspyder-since_June_2026-0a7fb0?style=flat-square" alt="Live Status" /></p>
 
-<h1 align="center">Y A S H U</h1>
+<h1 align="center">Y A S H U <a href="https://wraithhitek.github.io/"> </h1>
 
 <h3 align="center">I turn messy data into clear answers: analysis, machine learning and Gen AI, built in Python and SQL.</h3>
 
 <p align="center">
+  
   <a href="https://github.com/wraithhitek?tab=repositories">
     <img src="https://img.shields.io/badge/See_my_code-0a7fb0?style=for-the-badge&logo=github&logoColor=white" alt="See my code" />
   </a>
